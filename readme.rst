@@ -14,4 +14,4 @@ Codeigniter 3
 License
 *******
 
-Please see the `license agreement <https://github.com/miloske85/ci_transliteration_sr/license.txt>`_.
+Please see the `license agreement <https://github.com/miloske85/ci_transliteration_sr/blob/master/license.txt>`_.
